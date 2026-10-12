@@ -4,9 +4,9 @@ Static mobile business card for Blessing Leopa. Includes contact vCard, business
 
 ## GitHub Pages
 
-Publish from the main branch, root folder. The planned public URL is https://nyaps-tech.github.io/leopa-supply-card/
+Publish from the main branch, root folder. The public card address is https://nyaps-tech.github.io/leopa-supply-card/
 
-This package is prepared for that URL; it is not live until the repository and Pages publication have been created.
+Scanning the QR opens the branded card. Visitors can save the contact or download the designed PDF. Internet is needed to open the page; saved PDFs and contacts work offline.
 
 ## Updating
 
