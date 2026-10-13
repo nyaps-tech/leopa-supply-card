@@ -1,0 +1,8 @@
+{
+  "name": "leopa-supply-card",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Static personal business card with a verified vCard QR",
+  "scripts": { "generate:qr": "node scripts/contact-qr.cjs", "test": "node scripts/contact-qr.cjs --check" },
+  "devDependencies": { "qrcode": "1.5.4", "jsqr": "1.4.0", "pngjs": "7.0.0" }
+}

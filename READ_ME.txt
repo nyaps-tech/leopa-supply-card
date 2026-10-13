@@ -1,9 +1,9 @@
-LEOPA SUPPLY PUBLIC DIGITAL CARD
+LEOPA SUPPLY PERSONAL BUSINESS CARD
 
-Scan the web QR to open https://nyaps-tech.github.io/leopa-supply-card/
-Then tap Save contact to download/import Blessing Leopa’s contact details.
-Download business card PDF keeps the designed card on your phone.
-Internet is required to open the webpage. Saved PDF/VCF files work offline.
-The original offline vCard QR remains a separate contact-only option.
-NHBRC statement is company supplied and not independently verified.
-No exact Facebook profile URL was supplied.
+Public destination: https://nyaps-tech.github.io/leopa-supply-card/
+New contact QR: contact-qr.svg / contact-qr.png
+Scanning it shares Blessing Leopa's vCard directly, without a web redirect.
+Save contact opens Blessing_Leopa.vcf.
+
+The older LEOPA_SUPPLY_Web_QR files and PDFs are preserved legacy assets.
+See README.md for phone checks, regeneration, and GitHub Pages publishing.
